@@ -2,7 +2,7 @@ Margo Urey
 ==========
 
 Junior web developer based in London.
-I love solving problems, especially with code - it's on [GitHub] of course.
+I love solving problems, especially with code - it's all on [GitHub] of course.
 
 Code examples
 -------------
@@ -13,7 +13,8 @@ Code examples
 
 
 
-### Skills
+Skills
+------
 
   - Object­ oriented principles and design
   - Test­ driven development
@@ -21,7 +22,10 @@ Code examples
   - Pair programming
   - Ruby 2.0
   - Rails 4
+  - PHP 5
+  - WordPress
   - PostgreSQL
+  - MySQL
   - Sinatra and DataMapper
   - Unit testing with Minitest and RSpec
   - FactoryGirl fixtures and Shoulda matchers
@@ -66,7 +70,7 @@ Built websites using HTML, CSS, PHP, MySQL, JQuery, AJAX, Wordpress, XML
   - [The Private Charter Jet Company] Development of online quotation system
   - [Charity Auction Template] - CMS template for charities to set up bespoke international online auctions
   - [Digital Media Managers] - Survey to assess employees' Faceook competency and training requirements
-  - [margOnline] - Personal website to showmy work includes a handwritten in php cms for my blog
+  - [margOnline] - Personal website to show my work, includes a cms  handwritten in php for a blog.
 
 ### Coutts & Co
 **Project Manager: 1992&mdash;1995**
@@ -94,10 +98,12 @@ Formal Education
 
 ### Richmond Adult Community College
 **Advanced Website Development: October 2011&mdash;February 2012**
+
 Introduction to Javascript, PHP and MySQL
 
 ### Richmond Adult Community College
 **Website Technologies Certificate: January 2011&mdash;March 2011**
+
 Introduction to HTML, CSS and Photoshop
 
 ### Amherst College
