@@ -18,9 +18,9 @@ Web development
 
 ### Skills
 
-  - Agile values, principles and practice
   - Object­ oriented principles and design
   - Test­ driven development
+  - Agile values, principles and practice
   - Pair programming
   - Ruby 2.0
   - Rails 4
@@ -45,12 +45,15 @@ Experience
 
 ### Mint Digital
 **Junior Developer: January 2014&mdash;November 2014**
+Add features and fix bugs on proprietary products, internal gems and client projects including:
 
-  - Add features and fix bugs on proprietary products, internal gems and client projects including:
   -- [Boomf]
   -- [Sticky9]
   -- [Deskbeers]
   -- [The Bathory]
+
+  - Backend development using Ruby on Rails, PostgreSQL and lots of Gems
+  - TDD with Minitest and Shoulda
   - Version control and bug tracking on Github, Fogbugz
   - Internal comms with Hipchat and Slack
   - Deployment on Heroku
@@ -77,6 +80,7 @@ Built websites using HTML, CSS, PHP, MySQL, JQuery, AJAX, Wordpress, XML
 ### NatWest Bank Plc
 **Project Manager: 1992&mdash;1995**
 
+- Systems Analyst and Project Manager on Domestic Banking and Payment Transfer systems
 
 Formal Education
 ----------------
@@ -110,12 +114,14 @@ Interests
 
 Other than web and internet related technologies?
 
-Sports, especially football and tennis
+  - Sports, especially football and tennis
+  - Food, eating and cooking
+  - Media, the watchable kind
 
 
-Meet me
--------
-I'm `margOnline` on [Github], [LinkedIn] and [Twitter].
+Contact me
+----------
+I'm `margOnline` on [Github] and [Twitter], and `margourey` on [LinkedIn].
 
 [margo@margOnline.co.uk]
 
@@ -132,7 +138,7 @@ I'm `margOnline` on [Github], [LinkedIn] and [Twitter].
 
   [Makers Academy]: http://www.makersacademy.com
   [Bookable]: http://rubygems.org/gems/bookable
-  [Chitter]: http://super-chitter.herokuapp.com/
+  [Super Chitter]: http://super-chitter.herokuapp.com/
   [Ruby Exercises]: https://github.com/margOnline/ruby_exercises
   [chewymeister]: https://github.com/chewymeister
   [kunks001]: https://github.com/kunks001
