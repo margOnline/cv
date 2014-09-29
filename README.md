@@ -1,28 +1,20 @@
 Margo Urey
-=========
+==========
 
-Junior web developer based in London but willing to relocate.
-I love solving problems;especially with code.
+Junior web developer based in London.
+I love solving problems, especially with code.
 Read my code on [GitHub].
 
 Code examples
 -------------
 
-| [Ruby Exercises]| [Bookable] | [Chitter] |
-|:--------------- |:-------- |:--------- |
-| 100% test-driven Ruby model of airports and planes written using RSpec with an emphasis on code readability. | Rails gem created in 5 days with [chewymeister] and [kunks001] to enable developers to make a resource bookable. | Sinatra web app to provide twitter functionality. |
+| [Ruby Exercises] | [Bookable] | [Super Chitter] |
+|:---------------  |:---------- |:--------------- |
+| A series of exercises and code challenges from [exercism.io] and other sources to practice ruby and programming techniques | Rails gem created in 7 days with [chewymeister] and [kunks001] to enable developers to make a resource bookable. | Sinatra web app to provide twitter functionality. |
 
 
 Web development
 ---------------
-
-I'm convinced that great software transforms our lives. So this year I
-decided to turn my love of good software into real code.
-
-I started with a six week part-time online course from UCBerkeleyX, then I
-devoted three months to learning how to code at [Makers Academy]. I grasp
-new ideas quickly and would like to broaden my skills as a full stack
-web developer.
 
 ### Skills
 
@@ -46,29 +38,10 @@ web developer.
   - GitHub Flavoured Markdown
   - Deployment to Heroku
 
-### Makers Academy
-**Web Development Bootcamp: August&mdash;November 2013**
-
-  - Highly selective 12 week full-time course
-  - Ruby, object oriented programming and software design
-  - Full stack web development
-  - Pair programming and teamwork
-  - Final project: [Hen Party App] - a Rails 4 app to make organising hen
-    parties easier for maids of honour. Created in 10 days with [@Harrisam2]
-    and [@jodiealaine].
-
-### Advanced Website Development - Richmond Adult Community College
-**CS169.1 Software as a Service: October 2011&mdash;February 2012**
-
-  - 16 week part-time course
-  - Introduction to Javascript, PHP and MySQL
 
 
 Experience
 ----------
-
-I have worked as a co-ordinator for world class theatre productions where I
-
 
 ### Mint Digital
 **Junior Developer: January 2014&mdash;November 2014**
@@ -101,12 +74,29 @@ Built websites using HTML, CSS, PHP, MySQL, JQuery, AJAX, Wordpress, XML
 
   - IT manager on Financial and Treasury Systems
 
-### Coutts & Co
+### NatWest Bank Plc
 **Project Manager: 1992&mdash;1995**
 
 
 Formal Education
----------
+----------------
+
+### Makers Academy
+**Web Development Bootcamp: August&mdash;November 2013**
+
+  - Highly selective 12 week full-time course
+  - Ruby, object oriented programming and software design
+  - Full stack web development
+  - Pair programming and teamwork
+  - Final project: [Bookable] - a Rails 4 gem Created in 7 days with [chewymeister]
+    and [kunks001].
+
+### Advanced Website Development - Richmond Adult Community College
+**October 2011&mdash;February 2012**
+
+  - 16 week part-time course
+  - Introduction to Javascript, PHP and MySQL
+
 ### Richmond Adult Community College
 **Advanced Website Development
 **Website Technologies Certificate
@@ -146,6 +136,7 @@ I'm `margOnline` on [Github], [LinkedIn] and [Twitter].
   [Ruby Exercises]: https://github.com/margOnline/ruby_exercises
   [chewymeister]: https://github.com/chewymeister
   [kunks001]: https://github.com/kunks001
+  [exercism.io]: http://exercism.io/
 
   [margo@margonline.co.uk]: mailto:margo@margonline.co.uk
   [GitHub]: https://github.com/margOnline
