@@ -2,8 +2,7 @@ Margo Urey
 ==========
 
 Junior web developer based in London.
-I love solving problems, especially with code.
-Read my code on [GitHub].
+I love solving problems, especially with code - it's on [GitHub] of course.
 
 Code examples
 -------------
@@ -97,17 +96,19 @@ Formal Education
 
 ### Advanced Website Development - Richmond Adult Community College
 **October 2011&mdash;February 2012**
+Introduction to Javascript, PHP and MySQL
 
-  - 16 week part-time course
-  - Introduction to Javascript, PHP and MySQL
-
-### Richmond Adult Community College
-**Advanced Website Development
-**Website Technologies Certificate
+### Website Technologies Certificate - Richmond Adult Community College
+**January 2011&mdash;March 2011**
+Introduction to HTML, CSS and Photoshop
 
 ### Amherst College
 **BA Economics**
 
+
+Current Project
+---------------
+Developing a Conference talk 'How to get the best out of your Junior Developer'. To gather data for the talk, I am creating an [online survey] to canvas junior developers and their employers, feel free to contribute to the project.
 
 Interests
 ---------
@@ -140,6 +141,7 @@ I'm `margOnline` on [Github] and [Twitter], and `margourey` on [LinkedIn].
   [Bookable]: http://rubygems.org/gems/bookable
   [Super Chitter]: http://super-chitter.herokuapp.com/
   [Ruby Exercises]: https://github.com/margOnline/ruby_exercises
+  [online survey]: https://github.com/margOnline/dev_survey
   [chewymeister]: https://github.com/chewymeister
   [kunks001]: https://github.com/kunks001
   [exercism.io]: http://exercism.io/
