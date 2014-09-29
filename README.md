@@ -12,8 +12,6 @@ Code examples
 | A series of exercises and code challenges from [exercism.io] and other sources to practice ruby and programming techniques | Rails gem created in 7 days with [chewymeister] and [kunks001] to enable developers to make a resource bookable. | Sinatra web app to provide twitter functionality. |
 
 
-Web development
----------------
 
 ### Skills
 
@@ -44,12 +42,10 @@ Experience
 
 ### Mint Digital
 **Junior Developer: January 2014&mdash;November 2014**
+
 Add features and fix bugs on proprietary products, internal gems and client projects including:
 
-  -- [Boomf]
-  -- [Sticky9]
-  -- [Deskbeers]
-  -- [The Bathory]
+  [Boomf] -- [Sticky9] -- [Deskbeers] -- [The Bathory]
 
   - Backend development using Ruby on Rails, PostgreSQL and lots of Gems
   - TDD with Minitest and Shoulda
@@ -62,6 +58,7 @@ Add features and fix bugs on proprietary products, internal gems and client proj
 
 ### margOnline
 **Freelance Website Developer: July 2011&mdash;August 2013**
+
 Built websites using HTML, CSS, PHP, MySQL, JQuery, AJAX, Wordpress, XML
 
   - [Sofitsi Design] - Portfolio website for interior designer
@@ -74,12 +71,13 @@ Built websites using HTML, CSS, PHP, MySQL, JQuery, AJAX, Wordpress, XML
 ### Coutts & Co
 **Project Manager: 1992&mdash;1995**
 
-  - IT manager on Financial and Treasury Systems
+IT manager on Financial and Treasury Systems
 
 ### NatWest Bank Plc
 **Project Manager: 1992&mdash;1995**
 
-- Systems Analyst and Project Manager on Domestic Banking and Payment Transfer systems
+Systems Analyst and Project Manager on Domestic Banking and Payment Transfer systems
+
 
 Formal Education
 ----------------
@@ -94,12 +92,12 @@ Formal Education
   - Final project: [Bookable] - a Rails 4 gem Created in 7 days with [chewymeister]
     and [kunks001].
 
-### Advanced Website Development - Richmond Adult Community College
-**October 2011&mdash;February 2012**
+### Richmond Adult Community College
+**Advanced Website Development: October 2011&mdash;February 2012**
 Introduction to Javascript, PHP and MySQL
 
-### Website Technologies Certificate - Richmond Adult Community College
-**January 2011&mdash;March 2011**
+### Richmond Adult Community College
+**Website Technologies Certificate: January 2011&mdash;March 2011**
 Introduction to HTML, CSS and Photoshop
 
 ### Amherst College
@@ -108,7 +106,7 @@ Introduction to HTML, CSS and Photoshop
 
 Current Project
 ---------------
-Developing a Conference talk 'How to get the best out of your Junior Developer'. To gather data for the talk, I am creating an [online survey] to canvas junior developers and their employers, feel free to contribute to the project.
+Developing a Conference talk 'How to get the best out of your Junior Developer'. To gather data for the talk, I am creating an [online survey] to canvas junior developers and their employers; feel free to contribute to the project.
 
 Interests
 ---------
@@ -116,8 +114,8 @@ Interests
 Other than web and internet related technologies?
 
   - Sports, especially football and tennis
-  - Food, eating and cooking
-  - Media, the watchable kind
+  - Food, mainly tasting but I've been known to [bake]
+  - Media, the watchable kind - film, telly and modern art
 
 
 Contact me
@@ -150,3 +148,4 @@ I'm `margOnline` on [Github] and [Twitter], and `margourey` on [LinkedIn].
   [GitHub]: https://github.com/margOnline
   [LinkedIn]: http://linkedin.com/in/margourey
   [Twitter]: http://twitter.com/margOnline
+  [bake]: http://uk.pinterest.com/margonline/sweet-tooth/
