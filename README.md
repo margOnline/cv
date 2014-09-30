@@ -1,8 +1,11 @@
 Margo Urey
 ==========
+***About***
+I am an experienced, self-taught web developer. My goal is to become a senior developer in a company where I can contribute to the product, be challenged and continue to learn.
 
-Junior web developer based in London.
-I love solving problems, especially with code - it's all on [GitHub] of course.
+
+***Looking for***
+A back end developer role in London or the US on a competitive salary with flexible working conditions and a learning culture.
 
 Code examples
 -------------
