@@ -45,7 +45,7 @@ Experience
 ----------
 
 ### Mint Digital
-**Junior Developer: January 2014&mdash;November 2014**
+**Junior Developer: January 2014&mdash;**
 
 Add features and fix bugs on proprietary products, internal gems and client projects including:
 
