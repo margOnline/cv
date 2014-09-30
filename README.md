@@ -7,9 +7,9 @@ I love solving problems, especially with code - it's all on [GitHub] of course.
 Code examples
 -------------
 
-| [Ruby Exercises] | [Bookable] | [Super Chitter] |
-|:---------------  |:---------- |:--------------- |
-| A series of exercises and code challenges from [exercism.io] and other sources to practice ruby and programming techniques | Rails gem created in 7 days with [chewymeister] and [kunks001] to enable developers to make a resource bookable. | Sinatra web app to provide twitter functionality. |
+| [Bookable] | [Super Chitter] |[Ruby Exercises] |
+|:---------- |:--------------- |:--------------- |
+| Rails gem created in 7 days with [chewymeister] and [kunks001] to enable developers to make a resource bookable.| Sinatra web app to provide twitter functionality. | A series of exercises and code challenges from [exercism.io] and other sources to practice ruby and programming techniques |
 
 
 
@@ -155,3 +155,7 @@ I'm `margOnline` on [Github] and [Twitter], and `margourey` on [LinkedIn].
   [LinkedIn]: http://linkedin.com/in/margourey
   [Twitter]: http://twitter.com/margOnline
   [bake]: http://uk.pinterest.com/margonline/sweet-tooth/
+
+References
+----------
+Available on request.
