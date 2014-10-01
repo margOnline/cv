@@ -5,7 +5,7 @@ I am an experienced, self-taught web developer. My goal is to become a senior de
 
 
 ***Looking for***
-A back end developer role in London or the US on a competitive salary with flexible working conditions and a learning culture.
+A developer role in London or the US on a competitive salary with flexible working conditions and a learning culture.
 
 Code examples
 -------------
