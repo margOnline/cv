@@ -47,8 +47,24 @@ Skills
 Experience
 ----------
 
-### Mint Digital
-**Junior Developer: January 2014&mdash;**
+### [M&S Venture Labs]
+**Junior Developer: October 2014&mdash;**
+
+Experiment with new business models for M&S using lean startup techniques:
+
+  [Cook with M&S] -- [Tuesday] -- [The Shirt Shop] -- [M&S Style Board]
+
+  - Backend development using Ruby on Rails, PostgreSQL and lots of Gems
+  - Front end development with Angular as well as js, jQuery and CoffeeScript
+  - TDD with Rspec, Capybara and Poltergeist
+  - Version control and bug tracking on Github, Trello
+  - Internal comms with Slack
+  - Deployment on Heroku
+  - APIs - Twilio, Amazon S3 
+
+
+### [Mint Digital]
+**Junior Developer: January 2014&mdash;November 2014**
 
 Add features and fix bugs on proprietary products, internal gems and client projects including:
 
@@ -73,7 +89,7 @@ Built websites using HTML, CSS, PHP, MySQL, JQuery, AJAX, Wordpress, XML
   - [The Private Charter Jet Company] Development of online quotation system
   - [Charity Auction Template] - CMS template for charities to set up bespoke international online auctions
   - [Digital Media Managers] - Survey to assess employees' Faceook competency and training requirements
-  - [margOnline] - Personal website to show my work, includes a cms  handwritten in php for a blog.
+  - [margOnline] - Personal website to show my work, includes a cms handwritten in php for a blog.
 
 ### Coutts & Co
 **Project Manager: 1992&mdash;1995**
@@ -115,7 +131,7 @@ Introduction to HTML, CSS and Photoshop
 
 Current Project
 ---------------
-Developing a Conference talk 'How to get the best out of your Junior Developer'. To gather data for the talk, I am creating an [online survey] to canvas junior developers and their employers; feel free to contribute to the project.
+Early stages of developing [LostAndFound], an app to reunite lost items with their owners; feel free to contribute to the project.
 
 Interests
 ---------
@@ -139,10 +155,18 @@ I'm `margOnline` on [Github] and [Twitter], and `margourey` on [LinkedIn].
   [Charity Auction Template]: http://www.margonline.co.uk/at/index.php
   [Digital Media Managers]: http://www.margonline.co.uk/fb/fbsurvey.php
   [margOnline]: http://www.margonline.co.uk/
+
+  [Mint Digital]: http://mintdigital.com/
   [Boomf]: https://boomf.com/
   [Sticky9]: https://sticky9.com/
   [Deskbeers]: https://www.deskbeers.com/
   [The Bathory]: https://thebathory.com/
+
+  [M&S Venture Labs]: http://www.mslabs.io/
+  [Cook with M&S]: http://cookwithmands.com/
+  [The Shirt Shop]: http://formalshirts.marksandspencer.com/
+  [Tuesday]: https://trytuesday.com/
+  [M&S Style Board]: https://mandsstyleboard.com/
 
   [Makers Academy]: http://www.makersacademy.com
   [Bookable]: http://rubygems.org/gems/bookable
@@ -158,6 +182,7 @@ I'm `margOnline` on [Github] and [Twitter], and `margourey` on [LinkedIn].
   [LinkedIn]: http://linkedin.com/in/margourey
   [Twitter]: http://twitter.com/margOnline
   [bake]: http://uk.pinterest.com/margonline/sweet-tooth/
+  [LostandFound]: https://github.com/margOnline/lost_and_found
 
 References
 ----------
