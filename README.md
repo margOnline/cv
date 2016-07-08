@@ -191,7 +191,7 @@ I'm `margOnline` on [Github] and [Twitter], and `margourey` on [LinkedIn].
   [Twitter]: http://twitter.com/margOnline
   [bake]: http://uk.pinterest.com/margonline/sweet-tooth/
   [LostandFound]: https://github.com/margOnline/lost_and_found
-  [GrandSlam]: https://github.com/margOnline/lost_and_found
+  [GrandSlam]: https://grand-slam.herokuapp.com/
   [project]: https://github.com/margOnline/leaderboard
 
 References
