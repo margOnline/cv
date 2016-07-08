@@ -7,13 +7,10 @@ I am an experienced, self-taught web developer. My goal is to become a senior de
 ***Looking for***
 A developer role in London or the US on a competitive salary with flexible working conditions and a learning culture.
 
-Code examples
--------------
 
-| [Bookable] | [Super Chitter] |[Ruby Exercises] |
-|:---------- |:--------------- |:--------------- |
-| Rails gem created in 7 days with [chewymeister] and [kunks001] to enable developers to make a resource bookable.| Sinatra web app to provide twitter functionality. | A series of exercises and code challenges from [exercism.io] and other sources to practice ruby and programming techniques |
-
+Current Project
+---------------
+Early stages of developing [GrandSlam], a web application for leagues to enter and track their semi-final predictions for each of the Grand Slam Tennis tournaments. Feel free to contribute to the [project]
 
 
 Skills
@@ -47,8 +44,22 @@ Skills
 Experience
 ----------
 
+### [M&S Digital Innovation]
+**Software Engineer: August 2015&mdash;**
+
+Create, enhance and maintain the [M&S mobile website], (be sure to view on a smartphone)
+
+  - Back end - Sinatra, Ruby and lots of Gems
+  - Front end - HTML5, SASS, javascript and zepto.js
+  - TDD with Rspec, Capybara and Poltergeist
+  - Version control and bug tracking on Github, Trello
+  - Internal comms with Slack
+  - Deployment on CloudFoundry
+  - APIs - M&S internal apis, BazaarVoice
+
+
 ### [M&S Venture Labs]
-**Junior Developer: October 2014&mdash;**
+**Junior Developer: October 2014&mdash;August 2015**
 
 Experiment with new business models for M&S using lean startup techniques:
 
@@ -87,7 +98,6 @@ Built websites using HTML, CSS, PHP, MySQL, JQuery, AJAX, Wordpress, XML
   - [Sofitsi Design] - Portfolio website for interior designer
   - [Articulate] CMS website for indendent management consultant
   - [The Private Charter Jet Company] Development of online quotation system
-  - [Charity Auction Template] - CMS template for charities to set up bespoke international online auctions
   - [Digital Media Managers] - Survey to assess employees' Faceook competency and training requirements
   - [margOnline] - Personal website to show my work, includes a cms handwritten in php for a blog.
 
@@ -102,8 +112,8 @@ IT manager on Financial and Treasury Systems
 Systems Analyst and Project Manager on Domestic Banking and Payment Transfer systems
 
 
-Formal Education
-----------------
+Education
+---------
 
 ### Makers Academy
 **Web Development Bootcamp: August&mdash;November 2013**
@@ -128,10 +138,6 @@ Introduction to HTML, CSS and Photoshop
 ### Amherst College
 **BA Economics**
 
-
-Current Project
----------------
-Early stages of developing [LostAndFound], an app to reunite lost items with their owners; feel free to contribute to the project.
 
 Interests
 ---------
@@ -162,6 +168,8 @@ I'm `margOnline` on [Github] and [Twitter], and `margourey` on [LinkedIn].
   [Deskbeers]: https://www.deskbeers.com/
   [The Bathory]: https://thebathory.com/
 
+  [M&S Digital Innovation]: http://www.mandsdigital.com/
+  [M&S mobile website]: http://www.marksandspencer.com/
   [M&S Venture Labs]: http://www.mslabs.io/
   [Cook with M&S]: http://cookwithmands.com/
   [The Shirt Shop]: http://formalshirts.marksandspencer.com/
@@ -183,6 +191,8 @@ I'm `margOnline` on [Github] and [Twitter], and `margourey` on [LinkedIn].
   [Twitter]: http://twitter.com/margOnline
   [bake]: http://uk.pinterest.com/margonline/sweet-tooth/
   [LostandFound]: https://github.com/margOnline/lost_and_found
+  [GrandSlam]: https://github.com/margOnline/lost_and_found
+  [project]: https://github.com/margOnline/leaderboard
 
 References
 ----------
