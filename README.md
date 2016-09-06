@@ -102,6 +102,22 @@ Built websites using HTML, CSS, PHP, MySQL, JQuery, AJAX, Wordpress, XML
   - [margOnline] - Personal website to show my work, includes a cms handwritten in php for a blog.
 
 
+Voluntary
+---------
+
+### [Codebar]
+**Founder / Organiser of the West London Chapter: May 2015**
+
+  - Contributor to the open source [codebar site]
+  - Regular attendee as a coach at workshops and events in London and West London chapters
+  - Find sponsors and volunteers to organise West London events
+
+### [MumsInTechnology]
+
+  - Contributor to inaugeral series
+  - Mentor
+
+
 Education
 ---------
 
@@ -184,6 +200,9 @@ I'm `margOnline` on [Github] and [Twitter], `margourey` on [LinkedIn] and `margo
   [LostandFound]: https://github.com/margOnline/lost_and_found
   [GrandSlam]: https://grand-slam.herokuapp.com/
   [project]: https://github.com/margOnline/leaderboard
+  [Codebar]: https://codebar.io
+  [codebar site]: https://github.com/codebar/planner/graphs/contributors
+  [MumsInTechnology]: http://mumsintechnology.co.uk/
 
 References
 ----------
