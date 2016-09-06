@@ -1,7 +1,7 @@
 Margo Urey
 ==========
 ***About***
-I am an experienced, self-taught web developer. My goal is to become a senior developer in a company where I can contribute to the product, be challenged and continue to learn.
+I am an experienced, self-taught software engineer. My goal is to become a senior engineer in a company where I can contribute to the product, be challenged and continue to learn.
 
 
 ***Looking for***
@@ -101,16 +101,6 @@ Built websites using HTML, CSS, PHP, MySQL, JQuery, AJAX, Wordpress, XML
   - [Digital Media Managers] - Survey to assess employees' Faceook competency and training requirements
   - [margOnline] - Personal website to show my work, includes a cms handwritten in php for a blog.
 
-### Coutts & Co
-**Project Manager: 1992&mdash;1995**
-
-IT manager on Financial and Treasury Systems
-
-### NatWest Bank Plc
-**Project Manager: 1992&mdash;1995**
-
-Systems Analyst and Project Manager on Domestic Banking and Payment Transfer systems
-
 
 Education
 ---------
@@ -151,7 +141,7 @@ Other than web and internet related technologies?
 
 Contact me
 ----------
-I'm `margOnline` on [Github] and [Twitter], and `margourey` on [LinkedIn].
+I'm `margOnline` on [Github] and [Twitter], `margourey` on [LinkedIn] and `margo` on [stackOverflow]
 
 [margo@margOnline.co.uk]
 
@@ -189,6 +179,7 @@ I'm `margOnline` on [Github] and [Twitter], and `margourey` on [LinkedIn].
   [GitHub]: https://github.com/margOnline
   [LinkedIn]: http://linkedin.com/in/margourey
   [Twitter]: http://twitter.com/margOnline
+  [stackOverflow]: http://stackoverflow.com/users/3772982/margo
   [bake]: http://uk.pinterest.com/margonline/sweet-tooth/
   [LostandFound]: https://github.com/margOnline/lost_and_found
   [GrandSlam]: https://grand-slam.herokuapp.com/
