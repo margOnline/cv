@@ -59,9 +59,9 @@ Create, enhance and maintain the [M&S mobile website], (be sure to view on a sma
 
 
 ### [M&S Venture Labs]
-**Junior Developer: October 2014&mdash;August 2015**
+**Developer: October 2014&mdash;August 2015**
 
-Experiment with new business models for M&S using lean startup techniques:
+Lead backend developer building products to challenge existing business models for M&S using lean startup techniques:
 
   [Cook with M&S] -- [Tuesday] -- [The Shirt Shop] -- [M&S Style Board]
 
