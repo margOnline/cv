@@ -1,44 +1,36 @@
 Margo Urey
 ==========
 ***About***
-I am an experienced, self-taught software engineer. My goal is to become a senior engineer in a company where I can contribute to the product, be challenged and continue to learn.
+I am an experienced, self-taught full stack software engineer. I look to work in companies which promote agile processes, self-initiative and collaboration.
 
 
 ***Looking for***
 A developer role in London or the US on a competitive salary with flexible working conditions and a learning culture.
 
 
-Current Project
----------------
-Early stages of developing [GrandSlam], a web application for leagues to enter and track their semi-final predictions for each of the Grand Slam Tennis tournaments. Feel free to contribute to the [project]
-
-
 Skills
 ------
 
-  - Object­ oriented principles and design
-  - Test­ driven development
-  - Agile values, principles and practice
-  - Pair programming
-  - Ruby 2.0
-  - Rails 4
-  - PHP 5
-  - WordPress
-  - PostgreSQL
-  - MySQL
-  - Sinatra and DataMapper
-  - Unit testing with Minitest and RSpec
-  - FactoryGirl fixtures and Shoulda matchers
-  - Version control with git and GitHub
+  - Ruby
+  - Rails
   - JavaScript, jQuery and CoffeeScript
   - HTML5, ERB and Haml
-  - CSS3, Sass and Twitter Bootstrap 3
-  - WebSockets
+  - CSS3, Sass and Twitter Bootstrap
+  - PHP 5
+  - WordPress
+  - PostgreSQL, MySQL
+  - Sinatra and DataMapper
+  - Unit testing with Minitest and RSpec; acceptance testing with Capybara and Poltergeist
+  - FactoryGirl fixtures and Shoulda matchers
+  - Version control with git and GitHub
   - User authentication and authorisation with bcrypt and Devise
   - Integration of APIs including Twilio, Stripe and Paperclip
   - GitHub Flavoured Markdown
   - Deployment to Heroku
-
+  - Object­ oriented principles and design
+  - Test­ driven development
+  - Agile values, principles and practice
+  - Pair programming, code reviews
 
 
 Experience
@@ -47,7 +39,7 @@ Experience
 ### [M&S Digital Innovation]
 **Software Engineer: August 2015&mdash;**
 
-Create, enhance and maintain the [M&S mobile website], (be sure to view on a smartphone)
+Create, enhance and maintain the [M&S mobile website]
 
   - Back end - Sinatra, Ruby and lots of Gems
   - Front end - HTML5, SASS, javascript and zepto.js
@@ -75,7 +67,7 @@ Lead backend developer building products to challenge existing business models f
 
 
 ### [Mint Digital]
-**Junior Developer: January 2014&mdash;November 2014**
+**Developer: January 2014&mdash;November 2014**
 
 Add features and fix bugs on proprietary products, internal gems and client projects including:
 
@@ -143,6 +135,11 @@ Introduction to HTML, CSS and Photoshop
 
 ### Amherst College
 **BA Economics**
+
+
+Current Project
+---------------
+Early stages of developing [GrandSlam], a web application for leagues to enter and track their semi-final predictions for each of the Grand Slam Tennis tournaments. Feel free to contribute to the [project]
 
 
 Interests
