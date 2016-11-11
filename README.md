@@ -1,73 +1,47 @@
 Margo Urey
 ==========
 ***About***
-I am an experienced, self-taught full stack software engineer. I look to work in companies which promote agile processes, self-initiative and collaboration.
+I am an experienced, self-taught full stack software engineer. I look to work in companies which promote agile processes, self-initiative and collaborative approaches.
 
 
 ***Looking for***
 A developer role in London or the US on a competitive salary with flexible working conditions and a learning culture.
 
 
-Skills
-------
-
-  - Ruby
-  - Rails
-  - JavaScript, jQuery and CoffeeScript
-  - HTML5, ERB and Haml
-  - CSS3, Sass and Twitter Bootstrap
-  - PHP 5
-  - WordPress
-  - PostgreSQL, MySQL
-  - Sinatra and DataMapper
-  - Unit testing with Minitest and RSpec; acceptance testing with Capybara and Poltergeist
-  - FactoryGirl fixtures and Shoulda matchers
-  - Version control with git and GitHub
-  - User authentication and authorisation with bcrypt and Devise
-  - Integration of APIs including Twilio, Stripe and Paperclip
-  - GitHub Flavoured Markdown
-  - Deployment to Heroku
-  - Object­ oriented principles and design
-  - Test­ driven development
-  - Agile values, principles and practice
-  - Pair programming, code reviews
-
-
 Experience
 ----------
 
 ### [M&S Digital Innovation]
-**Software Engineer: August 2015&mdash;**
+**Software Engineer: August 2015 &mdash;**
 
-Create, enhance and maintain the [M&S mobile website]
+Create, enhance and maintain the [M&S mobile website]. Notable implementations:
+  - adding filters on product listing pages which increased monthly ATB conversion by 7 figures.
+  - including reviews on product display pages which increased monthly ATB conversion by 6 figures.
 
+Technical Stack
   - Back end - Sinatra, Ruby and lots of Gems
   - Front end - HTML5, SASS, javascript and zepto.js
   - TDD with Rspec, Capybara and Poltergeist
-  - Version control and bug tracking on Github, Trello
-  - Internal comms with Slack
   - Deployment on CloudFoundry
-  - APIs - M&S internal apis, BazaarVoice
+  - APIs - BazaarVoice and internal APIs
 
 
 ### [M&S Venture Labs]
-**Developer: October 2014&mdash;August 2015**
+**Developer: October 2014 &mdash; August 2015**
 
-Lead backend developer building products to challenge existing business models for M&S using lean startup techniques:
+Lead backend developer building products using lean startup techniques to validate new business models for M&S:
 
   [Cook with M&S] -- [Tuesday] -- [The Shirt Shop] -- [M&S Style Board]
 
   - Backend development using Ruby on Rails, PostgreSQL and lots of Gems
   - Front end development with Angular as well as js, jQuery and CoffeeScript
   - TDD with Rspec, Capybara and Poltergeist
-  - Version control and bug tracking on Github, Trello
-  - Internal comms with Slack
   - Deployment on Heroku
-  - APIs - Twilio, Amazon S3 
+  - APIs - Twilio, Amazon S3 and internal APIs 
 
 
 ### [Mint Digital]
-**Developer: January 2014&mdash;November 2014**
+**Developer: January 2014 &mdash; November 2014**
 
 Add features and fix bugs on proprietary products, internal gems and client projects including:
 
@@ -75,15 +49,13 @@ Add features and fix bugs on proprietary products, internal gems and client proj
 
   - Backend development using Ruby on Rails, PostgreSQL and lots of Gems
   - TDD with Minitest and Shoulda
-  - Version control and bug tracking on Github, Fogbugz
-  - Internal comms with Hipchat and Slack
   - Deployment on Heroku
-  - APIs - Mailchimp, Instagram, Google Calendar
+  - APIs - Mailchimp, Instagram, Google Calendar and internal APIs
   - Payment systems - Stripe, Paypal, Spreedly
 
 
 ### margOnline
-**Freelance Website Developer: July 2011&mdash;August 2013**
+**Freelance Web Developer: July 2011 &mdash; August 2013**
 
 Built websites using HTML, CSS, PHP, MySQL, JQuery, AJAX, Wordpress, XML
 
@@ -93,12 +65,28 @@ Built websites using HTML, CSS, PHP, MySQL, JQuery, AJAX, Wordpress, XML
   - [Digital Media Managers] - Survey to assess employees' Faceook competency and training requirements
   - [margOnline] - Personal website to show my work, includes a cms handwritten in php for a blog.
 
+Skills
+------
+
+  - Ruby and Rails
+  - Node.js
+  - JavaScript, jQuery and CoffeeScript
+  - HTML5, ERB and Haml
+  - CSS3, Sass and Twitter Bootstrap
+  - PHP 5
+  - PostgreSQL, MySQL
+  - Version control with git and GitHub
+  - Integration of APIs including Twilio, Stripe and Paperclip
+  - Deployment to Heroku and Cloudfoundry
+  - Object­ oriented principles and design
+  - Test­ driven development
+  - Agile values, principles and practice
 
 Voluntary
 ---------
 
 ### [Codebar]
-**Founder / Organiser of the West London Chapter: May 2015**
+**Founder / Organiser of the West London Chapter: May 2015 &mdash;**
 
   - Contributor to the open source [codebar site]
   - Regular attendee as a coach at workshops and events in London and West London chapters
@@ -114,7 +102,7 @@ Education
 ---------
 
 ### Makers Academy
-**Web Development Bootcamp: August&mdash;November 2013**
+**Web Development Bootcamp: August &mdash;November 2013**
 
   - Highly selective 12 week full-time course
   - Ruby, object oriented programming and software design
@@ -124,7 +112,7 @@ Education
     and [kunks001].
 
 ### Richmond Adult Community College
-**Advanced Website Development: October 2011&mdash;February 2012**
+**Advanced Website Development: October 2011 &mdash;February 2012**
 
 Introduction to Javascript, PHP and MySQL
 
@@ -137,11 +125,6 @@ Introduction to HTML, CSS and Photoshop
 **BA Economics**
 
 
-Current Project
----------------
-Early stages of developing [GrandSlam], a web application for leagues to enter and track their semi-final predictions for each of the Grand Slam Tennis tournaments. Feel free to contribute to the [project]
-
-
 Interests
 ---------
 
@@ -150,6 +133,11 @@ Other than web and internet related technologies?
   - Sports, especially football and tennis
   - Food, mainly tasting but I've been known to [bake]
   - Media, the watchable kind - film, telly and modern art
+
+
+Current Project
+---------------
+Early stages of developing [GrandSlam], a web application for leagues to enter and track their semi-final predictions for each of the Grand Slam Tennis tournaments.
 
 
 Contact me
