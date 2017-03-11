@@ -10,7 +10,7 @@ A developer role in London or the US on a competitive salary with flexible worki
 
 Experience
 ----------
-### [M&S Digital Innovation - Front End Starter Kit]
+### [M&S Digital Innovation] - Front End Starter Kit
 **Software Engineer: November 2016 &mdash; March 2017**
 
 Create the equivalent of Bootstrap for M&S apps. 
@@ -22,7 +22,7 @@ Technical Stack
   - Deployment on CloudFoundry
   - APIs - internal APIs
 
-### [M&S Digital Innovation - Mobile Website]
+### [M&S Digital Innovation] - Mobile Website
 **Software Engineer: August 2015 &mdash; November 2016**
 
 Create, enhance and maintain the [M&S mobile website]. Notable implementations:
@@ -79,9 +79,9 @@ Built websites using HTML, CSS, PHP, MySQL, JQuery, AJAX, Wordpress, XML
 Skills
 ------
 
-  - Ruby and Rails
-  - Node.js
-  - JavaScript, jQuery and CoffeeScript
+  - Ruby, Rails
+  - Javascript, ECMA6, Node.js
+  - jQuery, CoffeeScript
   - HTML5, ERB and Haml
   - CSS3, Sass and Twitter Bootstrap
   - PHP 5
@@ -186,13 +186,11 @@ I'm `margOnline` on [Github] and [Twitter], `margourey` on [LinkedIn] and `margo
   [kunks001]: https://github.com/kunks001
   [exercism.io]: http://exercism.io/
 
-  [email]: mailto:peterandmargo@blueyonder.co.uk
   [GitHub]: https://github.com/margOnline
   [LinkedIn]: http://linkedin.com/in/margourey
   [Twitter]: http://twitter.com/margOnline
   [stackOverflow]: http://stackoverflow.com/users/3772982/margo
   [bake]: http://uk.pinterest.com/margonline/sweet-tooth/
-  [LostandFound]: https://github.com/margOnline/lost_and_found
   [GrandSlam]: https://grand-slam.herokuapp.com/
   [project]: https://github.com/margOnline/leaderboard
   [Codebar]: https://codebar.io
