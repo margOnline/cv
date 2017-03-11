@@ -10,9 +10,20 @@ A developer role in London or the US on a competitive salary with flexible worki
 
 Experience
 ----------
+### [M&S Digital Innovation - Front End Starter Kit]
+**Software Engineer: November 2016 &mdash; March 2017**
 
-### [M&S Digital Innovation]
-**Software Engineer: August 2015 &mdash;**
+Create the equivalent of Bootstrap for M&S apps. 
+
+Technical Stack
+  - Back end - Node.js
+  - Front end - HTML5, SASS, ECMA6
+  - TDD with Mocha, Chai, Sinon
+  - Deployment on CloudFoundry
+  - APIs - internal APIs
+
+### [M&S Digital Innovation - Mobile Website]
+**Software Engineer: August 2015 &mdash; November 2016**
 
 Create, enhance and maintain the [M&S mobile website]. Notable implementations:
   - adding filters on product listing pages which increased monthly ATB conversion by 7 figures.
@@ -144,7 +155,6 @@ Contact me
 ----------
 I'm `margOnline` on [Github] and [Twitter], `margourey` on [LinkedIn] and `margo` on [stackOverflow]
 
-[margo@margOnline.co.uk]
 
   [Sofitsi Design]: http://www.sofitsidesign.com/
   [Articulate]: http://www.frontlineprojects.co.uk/
@@ -176,7 +186,7 @@ I'm `margOnline` on [Github] and [Twitter], `margourey` on [LinkedIn] and `margo
   [kunks001]: https://github.com/kunks001
   [exercism.io]: http://exercism.io/
 
-  [margo@margonline.co.uk]: mailto:margo@margonline.co.uk
+  [email]: mailto:peterandmargo@blueyonder.co.uk
   [GitHub]: https://github.com/margOnline
   [LinkedIn]: http://linkedin.com/in/margourey
   [Twitter]: http://twitter.com/margOnline
