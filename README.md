@@ -71,7 +71,6 @@ Add features and fix bugs on proprietary products, internal gems and client proj
 Built websites using HTML, CSS, PHP, MySQL, JQuery, AJAX, Wordpress, XML
 
   - [Sofitsi Design] - Portfolio website for interior designer
-  - [Articulate] CMS website for indendent management consultant
   - [The Private Charter Jet Company] Development of online quotation system
   - [Digital Media Managers] - Survey to assess employees' Faceook competency and training requirements
   - [margOnline] - Personal website to show my work, includes a cms handwritten in php for a blog.
