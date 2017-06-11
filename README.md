@@ -10,6 +10,19 @@ A developer role in London or the US on a competitive salary with flexible worki
 
 Experience
 ----------
+### [Money Advice Service]
+**Senior Software Developer: April 2017**
+
+- Enhance and maintain the Money Advice Service website and external and internal tools.
+- Define / improve development processes as the organisation moves to a more collaborative and agile approach to development.
+
+Technical Stack
+  - Back end - Rails application with mounted Rails engines
+  - Front end - HTML5, SASS, javascript and internal gems
+  - TDD with RSpec and Capybara and Poltergeist
+  - APIs - Internal APIs
+  - Deployment on Azure
+
 ### [M&S Digital Innovation] - Front End Starter Kit
 **Software Engineer: November 2016 &mdash; March 2017**
 
@@ -19,8 +32,8 @@ Technical Stack
   - Back end - Node.js
   - Front end - HTML5, SASS, ECMA6
   - TDD with Mocha, Chai, Sinon
-  - Deployment on CloudFoundry
   - APIs - internal APIs
+  - Deployment on CloudFoundry
 
 ### [M&S Digital Innovation] - Mobile Website
 **Software Engineer: August 2015 &mdash; November 2016**
@@ -33,8 +46,8 @@ Technical Stack
   - Back end - Sinatra, Ruby and lots of Gems
   - Front end - HTML5, SASS, javascript and zepto.js
   - TDD with Rspec, Capybara and Poltergeist
-  - Deployment on CloudFoundry
   - APIs - BazaarVoice and internal APIs
+  - Deployment on CloudFoundry
 
 
 ### [M&S Venture Labs]
@@ -47,9 +60,8 @@ Lead backend developer building products using lean startup techniques to valida
   - Backend development using Ruby on Rails, PostgreSQL and lots of Gems
   - Front end development with Angular as well as js, jQuery and CoffeeScript
   - TDD with Rspec, Capybara and Poltergeist
-  - Deployment on Heroku
   - APIs - Twilio, Amazon S3 and internal APIs 
-
+  - Deployment on Heroku
 
 ### [Mint Digital]
 **Developer: January 2014 &mdash; November 2014**
@@ -60,10 +72,9 @@ Add features and fix bugs on proprietary products, internal gems and client proj
 
   - Backend development using Ruby on Rails, PostgreSQL and lots of Gems
   - TDD with Minitest and Shoulda
-  - Deployment on Heroku
   - APIs - Mailchimp, Instagram, Google Calendar and internal APIs
   - Payment systems - Stripe, Paypal, Spreedly
-
+  - Deployment on Heroku
 
 ### margOnline
 **Freelance Web Developer: July 2011 &mdash; August 2013**
@@ -79,11 +90,11 @@ Built websites using HTML, CSS, PHP, MySQL, JQuery, AJAX, Wordpress, XML
 Skills
 ------
 
-  - Ruby, Rails
-  - Javascript, ECMA6, Node.js
-  - jQuery, CoffeeScript
+  - Ruby, Rails, Sinatra
+  - Javascript, ECMA6, Node.js, jQuery
+  - CoffeeScript
   - HTML5, ERB and Haml
-  - CSS3, Sass and Twitter Bootstrap
+  - CSS3, SASS and Twitter Bootstrap
   - PHP 5
   - PostgreSQL, MySQL
   - Version control with git and GitHub
@@ -105,7 +116,7 @@ Voluntary
 
 ### [MumsInTechnology]
 
-  - Contributor to inaugeral series
+  - Contributor to inaugural series
   - Mentor
 
 
@@ -139,7 +150,7 @@ Introduction to HTML, CSS and Photoshop
 Interests
 ---------
 
-Other than web and internet related technologies?
+Other than web and internet related technologies:
 
   - Sports, especially football and tennis
   - Food, mainly tasting but I've been known to [bake]
@@ -162,6 +173,8 @@ I'm `margOnline` on [Github] and [Twitter], `margourey` on [LinkedIn] and `margo
   [Charity Auction Template]: http://www.margonline.co.uk/at/index.php
   [Digital Media Managers]: http://www.margonline.co.uk/fb/fbsurvey.php
   [margOnline]: http://www.margonline.co.uk/
+
+  [Money Advice Service]: https://www.moneyadviceservice.org.uk
 
   [Mint Digital]: http://mintdigital.com/
   [Boomf]: https://boomf.com/
