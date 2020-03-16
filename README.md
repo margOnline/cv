@@ -11,7 +11,7 @@ A developer role in London or the US on a competitive salary with flexible worki
 Experience
 ----------
 ### [Money Advice Service]
-**Senior Software Developer: April 2017**
+**Senior Software Developer: April 2017 &mdash; September 2019**
 
 - Enhance and maintain the Money Advice Service website and external and internal tools.
 - Define / improve development processes as the organisation moves to a more collaborative and agile approach to development.
@@ -55,7 +55,7 @@ Technical Stack
 
 Lead backend developer building products using lean startup techniques to validate new business models for M&S:
 
-  [Cook with M&S] -- [Tuesday] -- [The Shirt Shop] -- [M&S Style Board]
+  [Cook with M&S] -- [Tuesday] -- [The Shirt Shop] -- M&S Style Board
 
   - Backend development using Ruby on Rails, PostgreSQL and lots of Gems
   - Front end development with Angular as well as js, jQuery and CoffeeScript
@@ -68,7 +68,7 @@ Lead backend developer building products using lean startup techniques to valida
 
 Add features and fix bugs on proprietary products, internal gems and client projects including:
 
-  [Boomf] -- [Sticky9] -- [Deskbeers] -- [The Bathory]
+  [Boomf] -- [Sticky9] -- [Deskbeers] -- The Bathory
 
   - Backend development using Ruby on Rails, PostgreSQL and lots of Gems
   - TDD with Minitest and Shoulda
@@ -81,11 +81,11 @@ Add features and fix bugs on proprietary products, internal gems and client proj
 
 Built websites using HTML, CSS, PHP, MySQL, JQuery, AJAX, Wordpress, XML
 
-  - [Sofitsi Design] - Portfolio website for interior designer
-  - [Articulate] CMS website for indendent management consultant
-  - [The Private Charter Jet Company] Development of online quotation system
-  - [Digital Media Managers] - Survey to assess employees' Faceook competency and training requirements
-  - [margOnline] - Personal website to show my work, includes a cms handwritten in php for a blog.
+  - Sofitsi Design - Portfolio website for interior designer
+  - [Articulate] - CMS website for indendent management consultant
+  - [The Private Charter Jet Company] - Development of online quotation system
+  - Digital Media Managers - Survey to assess employees' Faceook competency and training requirements
+  - [margOnline] - Personal website to show my work
 
 Skills
 ------
@@ -108,13 +108,14 @@ Voluntary
 ---------
 
 ### [Codebar]
-**Founder / Organiser of the West London Chapter: May 2015 &mdash;**
+**Founder / Organiser of the West London Chapter: May 2015 &mdash; December 2018**
 
   - Contributor to the open source [codebar site]
   - Regular attendee as a coach at workshops and events in London and West London chapters
   - Find sponsors and volunteers to organise West London events
 
 ### [MumsInTechnology]
+**Mentor: May 2015 &mdash; December 2018**
 
   - Contributor to inaugural series
   - Mentor
@@ -143,7 +144,7 @@ Introduction to Javascript, PHP and MySQL
 
 Introduction to HTML, CSS and Photoshop
 
-### Amherst College
+### Amherst College, USA
 **BA Economics**
 
 
@@ -167,10 +168,8 @@ Contact me
 I'm `margOnline` on [Github] and [Twitter], `margourey` on [LinkedIn] and `margo` on [stackOverflow]
 
 
-  [Sofitsi Design]: http://www.sofitsidesign.com/
   [Articulate]: http://www.frontlineprojects.co.uk/
   [The Private Charter Jet Company]: http://www.privatejets.co.uk/
-  [Charity Auction Template]: http://www.margonline.co.uk/at/index.php
   [Digital Media Managers]: http://www.margonline.co.uk/fb/fbsurvey.php
   [margOnline]: http://www.margonline.co.uk/
 
@@ -180,7 +179,6 @@ I'm `margOnline` on [Github] and [Twitter], `margourey` on [LinkedIn] and `margo
   [Boomf]: https://boomf.com/
   [Sticky9]: https://sticky9.com/
   [Deskbeers]: https://www.deskbeers.com/
-  [The Bathory]: https://thebathory.com/
 
   [M&S Digital Innovation]: http://www.mandsdigital.com/
   [M&S mobile website]: http://www.marksandspencer.com/
@@ -188,7 +186,6 @@ I'm `margOnline` on [Github] and [Twitter], `margourey` on [LinkedIn] and `margo
   [Cook with M&S]: http://cookwithmands.com/
   [The Shirt Shop]: http://formalshirts.marksandspencer.com/
   [Tuesday]: https://trytuesday.com/
-  [M&S Style Board]: https://mandsstyleboard.com/
 
   [Makers Academy]: http://www.makersacademy.com
   [Bookable]: http://rubygems.org/gems/bookable
